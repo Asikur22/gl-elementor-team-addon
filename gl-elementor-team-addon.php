@@ -1,14 +1,14 @@
 <?php
 /*
- * Plugin Name: Gl ELementor Addon
+ * Plugin Name: Gl ELementor Team Addon
  * Plugin URI: https://greenlifeit.com/plugins/
- * Description: Gl ELementor Taxonomy.
+ * Description: Gl Elementor Addon for showing team members.
  * Author: Asiqur Rahman
  * Author URI: https://asique.net/
  * Version: 1.0.0
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: gl-elementor-addon
+ * Text Domain: gl-elementor-team-addon
  */
 
 
